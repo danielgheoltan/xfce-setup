@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=DG
-Comment=DG icon theme
+Name=DanielGheoltan
+Comment=Icon theme
 Inherits=breeze,gnome,hicolor
 
 Example=folder
