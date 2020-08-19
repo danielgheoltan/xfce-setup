@@ -3,7 +3,7 @@
 ```
 sudo cp -r ./usr/share/icons/* /usr/share/icons/
 sudo cp -r ./usr/share/themes/* /usr/share/themes/
-sudo chmod -R 755 /usr/share/themes/DanielGheoltan
+sudo chmod -R 755 /usr/share/themes/DanielGheoltan/
 sudo gtk-update-icon-cache /usr/share/icons/DanielGheoltan/
 ```
 
